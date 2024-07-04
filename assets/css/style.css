@@ -65,7 +65,23 @@ p{
     font-size: 18px;
 }
 
+#section9 .content p{
+    margin: 0;
+}
+
+#section9 .content{
+    align-items: baseline;
+}
+
 .centered-text {
+    text-align:center;
+}
+
+.medium-width{
     width: 40%;
     margin: 0 auto;
+}
+
+.big-size-font{
+    font-size:72px;
 }
